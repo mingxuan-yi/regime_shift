@@ -1,0 +1,6 @@
+{
+  "regime_change_type": "major_pivot",
+  "confidence": 0.99,
+  "reasoning": "The March 2020 document represents a textbook crisis emergency regime shift: the federal funds rate was cut to the zero lower bound (0\u20131/4 percent from 1-1/2\u20131-3/4 percent), a new large-scale asset purchase program was launched ($500B Treasuries + $200B MBS), and the dominant policy tool shifted from a stable-rate/bill-purchase posture to emergency QE with explicit market-functioning rationale \u2014 all driven by the COVID-19 shock. This is precisely the ZLB onset plus QE program introduction that the definitions flag as a major pivot.",
+  "key_quote": "The Committee directs the Desk to increase over coming months the System Open Market Account holdings of Treasury securities and agency mortgage-backed securities (MBS) by at least $500 billion and by at least $200 billion, respectively... the Committee decided to lower the target range for the federal funds rate to 0 to 1/4 percent."
+}

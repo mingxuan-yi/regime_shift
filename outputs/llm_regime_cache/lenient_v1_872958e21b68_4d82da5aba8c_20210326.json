@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.72,
+  "explanation": "The March 17 document (prior to the break date) contains substantive content directly relevant to a late-March market break: it explicitly discusses the sharp rise in longer-term Treasury yields and term premiums, a notable 50bp upward shift in market-implied fed funds rate expectations, deteriorating Treasury market liquidity, and a decision to raise the ON RRP per-counterparty limit from $30B to $80B \u2014 a concrete operational change signaling awareness of mounting money-market pressure. The combination of acknowledged yield volatility, a hawkish repricing of the rate path by markets, and the ON RRP adjustment could plausibly have contributed to a structural break in financial market data around March 26, as these dynamics continued to play out in the days following the March 17 release."
+}

@@ -1,0 +1,6 @@
+{
+  "regime_change_type": "major_pivot",
+  "confidence": 0.82,
+  "reasoning": "The September 2017 meeting formally initiated the balance sheet normalization (QT) program, directing the Desk to begin capping reinvestment of maturing securities effective October 2017 \u2014 a concrete operational change from full reinvestment to active balance sheet reduction. The prior document stated the Committee 'intended to begin implementing the balance sheet normalization program relatively soon,' while the current document moves from intention to execution with specific cap amounts ($6B Treasury, $4B MBS monthly). This constitutes the introduction of a new active policy tool (QT), qualifying as a major pivot under the definition of 'Introduction or termination of a QE/QT program.'",
+  "key_quote": "Effective in October [masked number of year] the Committee directs the Desk to roll over at auction the amount of principal payments from the Federal Reserve's holdings of Treasury securities maturing during each calendar month that exceeds $6 billion, and to reinvest in agency mortgage-backed securities the amount of principal payments from the Federal Reserve's holdings of agency debt and agency mortgage-backed securities received during each calendar month that exceeds $4 billion."
+}

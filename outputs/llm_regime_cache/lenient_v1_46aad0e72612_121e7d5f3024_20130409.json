@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.7,
+  "explanation": "Neither document straddles the April 9, 2013 break in a way that contains substantive new policy content: the March 20 document maintains the existing QE3 program unchanged ($85B/month) with no new signals, and the May 1 document (post-break) adds symmetric language about increasing or reducing purchases but was released after the flagged date. The April 9 break likely reflects other market developments (e.g., weak U.S. jobs data, BOJ's massive QE announcement on April 4) rather than FOMC communications."
+}

@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.92,
+  "explanation": "The June 19, 2013 FOMC minutes (released with a lag but reflecting the June 18-19 meeting) contain highly substantive content: Bernanke's press conference and the meeting itself introduced explicit forward guidance on tapering QE, with the Committee projecting it could begin reducing the $85B/month purchase pace later in 2013 and potentially end it by mid-2014 if the labor market improved as expected. This represented a material shift in the asset purchase trajectory and constitutes the well-documented 'taper tantrum' catalyst, directly explaining the structural break detected around June 21, 2013 in financial market data."
+}

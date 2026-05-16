@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.15,
+  "explanation": "Neither document straddles the April 13 break date in a way that provides substantive new policy content: the March 18 document explicitly ruled out an April hike and maintained the 0-1/4% target with no change in balance sheet policy, while the April 29 document postdates the break by over two weeks and itself contains no rate change or meaningful forward-guidance shift beyond acknowledging a soft Q1 as 'transitory.' The structural break on April 13 falls in the inter-meeting window between these two documents, during which no FOMC policy action occurred, making it unlikely that either document directly explains the detected market break."
+}

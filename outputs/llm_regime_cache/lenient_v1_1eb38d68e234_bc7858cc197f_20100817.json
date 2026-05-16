@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.92,
+  "explanation": "The 2010-08-10 FOMC document contains a highly substantive policy shift: the Committee announced it would reinvest principal payments from agency debt and MBS into longer-term Treasury securities to keep the balance sheet constant, reversing the implicit passive tightening that had been underway. This 'QE-lite' decision\u2014preventing balance sheet shrinkage and redirecting flows into Treasuries\u2014was a material easing signal that plausibly caused the structural break detected on 2010-08-17, as markets repriced the path of Fed policy and longer-term interest rates."
+}

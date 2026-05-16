@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.85,
+  "explanation": "The prior document (2010-11-03) contains the landmark QE2 announcement \u2014 a decision to purchase an additional $600 billion of longer-term Treasury securities at ~$75 billion/month through Q2 2011 \u2014 which is a major balance sheet expansion that would plausibly cause a structural break in financial market data around that date or in the weeks following as markets digested the implications. The December 14 document confirms continuation of QE2 unchanged, which itself could reinforce or extend market repricing, but the primary driver of any structural break near 2010-12-02 is most likely the November 3 QE2 launch and subsequent market adjustment period."
+}

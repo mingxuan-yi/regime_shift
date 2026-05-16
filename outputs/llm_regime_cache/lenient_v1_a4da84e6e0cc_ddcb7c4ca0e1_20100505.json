@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.72,
+  "explanation": "The June 2023 document (post-break) explicitly acknowledges that 'financial conditions have become less supportive of economic growth on balance, largely reflecting developments abroad' \u2014 a direct reference to the European sovereign debt crisis that was roiling markets around May 2010 (including the Greek crisis and the May 6 Flash Crash). The April 2010 document (pre-break) contains no such stress acknowledgment, making the contrast between the two documents a plausible explanation for the detected structural break, as the Fed's formal recognition of deteriorating financial conditions and a softened economic outlook represents a substantive shift in its assessment."
+}

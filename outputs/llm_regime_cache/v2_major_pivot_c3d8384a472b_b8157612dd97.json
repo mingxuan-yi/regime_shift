@@ -1,0 +1,6 @@
+{
+  "regime_change_type": "incremental",
+  "confidence": 0.82,
+  "reasoning": "The September meeting delivered a routine 25bp hike continuing the established gradual tightening cycle, and the removal of 'the stance of monetary policy remains accommodative' is a notable language change but explicitly framed by members as a clarification reflecting uncertainty around the neutral rate rather than a directional shift \u2014 the forward guidance of 'further gradual increases' and 'risks roughly balanced' remained identical. The balance sheet runoff cap increase (Treasury cap $24B\u2192$30B, MBS cap $16B\u2192$20B) was pre-announced as part of the normalization plan, not a new QT regime. While the 'accommodative' removal is meaningful, it does not constitute a transition between regimes as the tightening trajectory, reaction function, and dominant tool are all unchanged.",
+  "key_quote": "members agreed to remove the sentence indicating that 'the stance of monetary policy remains accommodative' ... this characterization was no longer providing meaningful information in light of uncertainty surrounding the level of the neutral policy rate"
+}

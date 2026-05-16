@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.75,
+  "explanation": "Neither document straddles 2020-05-04 in a way that explains a break on that date: the prior document (2020-04-29) was released just before the flagged date and contains a hold decision with open-ended QE language ('amounts needed to support smooth market functioning'), while the current document (2020-06-10) is over a month after the break. The April 29 statement's shift from unlimited QE to a more conditional framing ('amounts needed') and the market's digestion of the FOMC's lack of new easing could plausibly contribute to a market move around that date, but the structural break on 2020-05-04 is more likely attributable to non-FOMC factors (e.g., macro data releases, COVID reopening news, or fiscal developments) rather than a discrete Fed policy shift captured in these two documents."
+}

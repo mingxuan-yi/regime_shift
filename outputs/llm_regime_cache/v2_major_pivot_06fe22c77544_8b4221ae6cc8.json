@@ -1,0 +1,6 @@
+{
+  "regime_change_type": "incremental",
+  "confidence": 0.72,
+  "reasoning": "The December meeting introduced the word 'any' into the forward guidance ('the extent of any additional policy firming that may be appropriate'), which the minutes explicitly describe as signaling the rate is 'likely now at or near its peak for this policy tightening cycle.' However, the fed funds target range remained unchanged at 5\u00bc\u20135\u00bd%, QT continued on the same schedule, and the underlying regime\u2014holding rates at peak while monitoring data\u2014was already established in November when markets priced a ~70% probability of no further hikes. This is a meaningful language refinement that formalizes an existing market consensus rather than a transition between distinct policy regimes; the tightening cycle's de facto pause was already operative, making this an incremental solidification rather than a major pivot.",
+  "key_quote": "Members generally viewed the addition of the word 'any' to this sentence as appropriately relaying their judgment that the target range for the federal funds rate was likely now at or near its peak for this policy tightening cycle while leaving open the possibility of further increases in the target range if these were warranted by the totality of the incoming data, the evolving outlook, and the balance of risks."
+}

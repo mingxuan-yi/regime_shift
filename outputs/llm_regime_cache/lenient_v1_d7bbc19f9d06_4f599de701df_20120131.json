@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.85,
+  "explanation": "The 2012-01-25 document contains highly substantive content: the FOMC extended its forward guidance for exceptionally low rates 'at least through late 2014' (extended from 'mid-2013'), and separately released its first-ever explicit longer-run goals and policy strategy statement establishing a 2% inflation target. These were significant regime-level shifts\u2014the explicit inflation target and the extended forward guidance horizon would plausibly cause a structural break in financial market data around January 25, 2012."
+}

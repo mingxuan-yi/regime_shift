@@ -1,0 +1,24 @@
+# Core (table/FP reproduction: finalscripts/table1.py, table2.py, fp_table.py, fp_all.py)
+numpy
+pandas
+scipy
+pyarrow
+python-dotenv
+ruptures
+scikit-learn
+statsmodels
+
+# Figure 1 reproduction (finalscripts/figure1_dag.ipynb) and notebooks/utils
+tigramite
+matplotlib
+networkx
+
+# Notebook execution (only if re-running figure1_dag.ipynb)
+jupyter
+nbclient
+nbformat
+ipykernel
+
+# Optional: only needed to REGENERATE the LLM cache (all verdicts are
+# already cached under outputs/llm_regime_cache, so reproduction is 0-API).
+anthropic

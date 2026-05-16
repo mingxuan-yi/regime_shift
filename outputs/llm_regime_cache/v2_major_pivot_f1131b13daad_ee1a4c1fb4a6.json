@@ -1,0 +1,6 @@
+{
+  "regime_change_type": "incremental",
+  "confidence": 0.82,
+  "reasoning": "The June meeting represents a modest operational refinement within the same crisis-accommodation regime established in March 2020: the QE directive shifted from 'amounts needed to support smooth market functioning' to 'at least at the current pace' (~$80B/month Treasuries + ~$40B/month MBS), formalizing a pace floor rather than open-ended need-based purchases. However, this is a technical clarification of an already-running QE program \u2014 the rate remains at ZLB, the forward guidance language is unchanged, and the dominant tool (QE + ZLB) and trajectory (accommodation) are continuous. The shift from demand-driven to pace-based QE language is a refinement within the existing regime, not a transition to a new one.",
+  "key_quote": "over coming months it would be appropriate for the Federal Reserve to increase its holdings of Treasury securities and agency MBS and agency CMBS at least at the current pace to sustain smooth market functioning"
+}

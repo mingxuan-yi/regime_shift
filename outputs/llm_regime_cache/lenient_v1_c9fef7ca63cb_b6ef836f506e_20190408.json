@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.75,
+  "explanation": "The structural break date of 2019-04-08 falls between the March 20 FOMC minutes and the May 1 meeting, with no FOMC meeting or major policy communication on or immediately around that date. The March 20 document reinforced the 'patient' stance already well-known to markets, and the May 1 document postdates the break by nearly a month; neither document straddles April 8 closely enough to plausibly cause a structural break on that specific date, though the cumulative dovish pivot narrative was ongoing."
+}

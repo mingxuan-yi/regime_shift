@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.75,
+  "explanation": "Neither document was published on or near 2024-05-17: the prior document is dated 2024-05-01 and the current document is dated 2024-06-12, leaving a gap that straddles the flagged date with no FOMC communication. The May 1 document contains meaningful content (QT taper announcement, hawkish hold, 'lack of further progress' language) that could have caused market moves around its release date, but that is two weeks before the flagged break, making it an unlikely direct explanation for a structural break specifically on 2024-05-17."
+}

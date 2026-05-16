@@ -1,0 +1,5 @@
+{
+  "explains_signal": true,
+  "confidence": 0.72,
+  "explanation": "The January 31 FOMC minutes (released ~February 21, 2018) contained notably hawkish language, including an upgraded near-term economic outlook, increased likelihood of a gradual rate hike trajectory, and discussion of strengthening inflation pressures\u2014content that could plausibly have triggered the equity selloff and volatility spike around February 22 that the statistical detector flagged. The minutes' release timing aligns closely with the structural break date."
+}

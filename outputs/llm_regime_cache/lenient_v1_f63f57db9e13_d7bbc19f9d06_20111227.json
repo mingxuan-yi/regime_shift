@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.8,
+  "explanation": "Neither document straddles the flagged date of 2011-12-27 in a way that would explain a market break on that date: the prior document is from 2011-12-13 (two weeks before) and the current document is from 2012-01-25 (nearly a month after). The 2012-01-25 document does contain substantive policy content\u2014an extension of forward guidance to 'late 2014' from 'mid-2014'\u2014but this was released well after the flagged break date and cannot plausibly explain a signal on 2011-12-27."
+}

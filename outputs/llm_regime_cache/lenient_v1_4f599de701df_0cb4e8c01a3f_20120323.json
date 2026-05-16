@@ -1,0 +1,5 @@
+{
+  "explains_signal": false,
+  "confidence": 0.75,
+  "explanation": "Neither document contains a substantive shift in monetary policy stance that would plausibly explain a structural break on 2012-03-23; the March 13 meeting maintained the status quo (0-0.25% FFR, forward guidance through late 2014, continuation of Operation Twist), and the April 25 meeting similarly held policy unchanged with no new programs announced. The flagged date of March 23 falls between these two meetings and corresponds to no FOMC decision, though it may coincide with a Fed speech or other market event not captured in these documents."
+}
